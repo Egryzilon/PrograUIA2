@@ -1,7 +1,7 @@
 ﻿using System;
 
 class Uno {
-    public void Main111(string[] args) {
+    public void Main(string[] args) {
         Console.WriteLine("hello World");
     }
 }
